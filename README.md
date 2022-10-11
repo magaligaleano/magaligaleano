@@ -12,7 +12,7 @@ Javascript, HTML, CSS, React.js...
 
 
 
-🧠 I'm currently learning... React.js, Node.js
+🧠 I'm currently learning... React.js, Node.js, Java
 
 📫 How to reach me... magali.galeano10@outlook.com
 
